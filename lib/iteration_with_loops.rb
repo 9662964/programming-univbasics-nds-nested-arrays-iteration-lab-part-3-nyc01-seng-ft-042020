@@ -21,6 +21,6 @@ while row_index < src.count do
   end
   row_index += 1
 end
-return temp3 = temp2.join("")
+return temp3 = temp2.join(" ")
 end
 
